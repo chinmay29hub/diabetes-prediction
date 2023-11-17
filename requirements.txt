@@ -60,7 +60,7 @@ platformdirs==2.5.0
 plotly==5.6.0
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
-protobuf==3.19.4
+protobuf==3.19.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==14.0.1
